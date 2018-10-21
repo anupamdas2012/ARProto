@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 0
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "1053357446219-cpihlss64d8srp9fpj7aicg5chk1r7l9.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjQLaCqXH5-STNXiqOGcqE2rLJRsXLq8Y"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:1053357446219:ios:fb9990fbf69435cb", 
+        "android_client_info": {
+          "package_name": "com.adas.hellostorage"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "fir-iosstoragetutorial.appspot.com", 
+    "project_id": "fir-iosstoragetutorial", 
+    "firebase_url": "https://fir-iosstoragetutorial.firebaseio.com", 
+    "project_number": "1053357446219"
+  }
+}
